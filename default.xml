@@ -1,0 +1,7 @@
+
+<?xml version="1.0" encoding="UTF-8" ?>
+<manifest>
+    <remote name="c" fetch="https://github.com/shan3275/c.git" />
+    <default remote="c" revision="master"/>
+    <project path="local_hello" name="helo"/>
+</manifest>
