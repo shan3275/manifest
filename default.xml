@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <manifest>
     <remote name="github" fetch="https://github.com/shan3275" />
-    <default remote="c" revision="master"/>
+    <default remote="github" revision="master"/>
     <project path="c" name="c"/>
     <project path="python" name="python"/>
 </manifest>
